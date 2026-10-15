@@ -113,7 +113,6 @@ require a dataset of that kind.
 
 ```bash
 pip install -r requirements.txt
-# the Telco CSV is in the churn-predictor repo; place it in this folder
 python -m pytest -q                      # verifies the cross layer
 python dcn_churn.py --data WA_Fn-UseC_-Telco-Customer-Churn.csv --folds 5 --repeats 1
 ```
