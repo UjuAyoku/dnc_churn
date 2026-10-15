@@ -1,6 +1,6 @@
 # Deep & Cross Network (DCN) Reimplementation for Customer Churn
 
-A from-scratch TensorFlow/Keras reimplementation of the cross layer from
+A TensorFlow/Keras reimplementation of the cross layer from
 **Wang et al., "Deep & Cross Network for Ad Click Predictions" (ADKDD 2017,
 [arXiv:1708.05123](https://arxiv.org/abs/1708.05123))**, evaluated on the Telco
 customer churn dataset against logistic regression, random forest and XGBoost.
